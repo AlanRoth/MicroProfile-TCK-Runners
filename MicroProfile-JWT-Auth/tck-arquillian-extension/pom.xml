@@ -59,7 +59,6 @@
     </properties>
 
     <profiles>
-
         <profile>
             <id>payara4</id>
             <activation>
